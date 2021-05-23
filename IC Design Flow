@@ -9,6 +9,8 @@ Feasibility Check(可行性测试，某些功能是否支持)
 Kick Off(所有人参加讨论研发方法，测试制程，日程，交付)
 
 IC Design Start(模拟，逻辑，Layout)
+  Design Methodologies
+  
 
 DB Out(对数据，参数移交给layout,发给TSMC/PSMC)
 
@@ -24,10 +26,10 @@ Final Test(组装后进行最后测试)
 
 模组驱动评价（通过连接器，IC在面板上测试，对显示效果进行判断）
 
-信赖性评价（ESD,HTQL，以期刊论文为背景，根据公式标准，在正常情况下使用多次三方公司进行高温测试）
+信赖性(reliability)评价（ESD,HTQL，以期刊论文为背景，根据公式标准，在正常情况下使用多次三方公司进行高温测试）
 
-不良品项目改善（对功能测试，追根溯源,某个部门生产出现问题）
+不良品项目改善（revision,failure analysis,对功能测试，追根溯源,某个部门生产出现问题）
 
 完成量产特性评价
 
-量产（PSMC/TSMC）
+量产（mass product,PSMC/TSMC）
