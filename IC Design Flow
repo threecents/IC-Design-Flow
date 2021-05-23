@@ -1,0 +1,29 @@
+IC Design Flow
+
+RFQ(Request For Question)
+
+SPEC(收集讨论，分析规格书相关功能，是否支持)
+
+Feasibility Check(可行性测试，某些功能是否支持)
+
+Kick Off(所有人参加讨论研发方法，测试制程，日程，交付)
+
+IC Design Start(模拟，逻辑，Layout)
+
+DB Out(对数据，参数移交给layout,发给TSMC/PSMC)
+
+Fabrication(加急生产)
+
+Bump(小金块-起连接作用，在专门公司生产)
+
+Probe(wafer test-晶圆测试，probe card连接电脑测试）
+
+Cof组装/COG(Chip on Film,IC组装)
+
+Final Test(组装后进行最好测试)
+
+模组驱动评价（通过连接器，IC在面板上测试，对显示效果进行判断）
+
+信赖性评价（ESD,HTQL，以期刊论文为背景，根据公式标准，在正常情况下使用多次三方公司进行高温测试）
+
+不良品项目改善（对功能测试，追根溯源）
